@@ -1,0 +1,28 @@
+	"_id" : ObjectId("58b1f6fe861faf0001611a80"),
+	"duration" : "None",
+	"event_type" : "sleep",
+	"event_time" : 1488058110.432608,
+	"request_id" : "a01ebb24-5eb4-44d1-85d2-18f3025f7420",
+	"source_id" : "amzn1.ask.account.",
+	"child_id" : "58a40a921d90110001fd52ba",
+	"caregiver_id" : "58a40a921d90110001fd52b9",
+	"metadata" : {
+		"duration" : "5:00:00"
+	}
+
+
+{
+	"source_id" : "alexa_id_123",
+	"child_id" : "child123456",
+	"type" : "sleep",
+	"event_time" : 1488058130.432608,
+	"caregiver_id" : "caregiver12345",
+	"child_id" : "58a40a921d90110001fd52ba",
+	"source_id" : "amzn1.ask.account.",
+	"metadata" : {
+	    "duration" : "5:00:00"
+	}
+}
+
+https://3zqz1tgu92.execute-api.us-west-2.amazonaws.com/dev/
+
